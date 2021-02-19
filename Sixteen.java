@@ -1,5 +1,7 @@
 package day4lab;
 
+// 16.
+
 import java.util.Scanner;
 
 public class Sixteen {
